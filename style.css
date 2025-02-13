@@ -1,1 +1,22 @@
+body {
+  background-color: grey;
+}
 
+img {
+  max-width: 50%;
+  height: auto;
+  border-radius: 8px;
+}
+
+h1 {
+  font-family: "times", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+p {
+  color: white;
+  font-family: times;
+  font-size: 14px;
+}
