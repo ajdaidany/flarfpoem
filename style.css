@@ -3,7 +3,7 @@ body {
 }
 
 img {
-  max-width: 200%;
+  max-width: auto;
   height: auto;
   border-radius: 8px;
 }
